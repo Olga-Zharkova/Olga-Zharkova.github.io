@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125566740371",
+    "project_id": "tanya3v1",
+    "storage_bucket": "tanya3v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125566740371:android:5bea0beb306443e0c72a66",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125566740371-ks6sckph8u34mehusbf9k5lpi6tillko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnrcIbLhriMJphf4GlXBQAy11RiegoFD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125566740371-ks6sckph8u34mehusbf9k5lpi6tillko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
